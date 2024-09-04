@@ -1,2 +1,2 @@
 # MNT-C
-C/C++ compiler
+C/C++ compiler written entirely in Python
